@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=CS%20Student%20%F0%9F%8E%93;Learning%20%C2%B7%20Building%20%C2%B7%20Growing;Future%20Software%20Engineer%20%F0%9F%92%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=BSIT%20Student%20%F0%9F%8E%93;Learning%20%C2%B7%20Building%20%C2%B7%20Growing;Future%20Software%20Engineer%20%F0%9F%92%A1)](https://git.io/typing-svg)
 
 </div>
 
@@ -32,11 +32,15 @@
 
 <div align="center">
 
-![Shaeo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shaeoo&show_icons=true&theme=dark&hide_border=true&count_private=true)
+<div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shaeoo&theme=dark&hide_border=true)
+![Shaeo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shaeo&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shaeoo&layout=compact&theme=dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=shaeo&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shaeo&layout=compact&theme=dark&hide_border=true)
+
+</div>
 
 </div>
 
