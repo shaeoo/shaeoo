@@ -32,11 +32,11 @@
 
 <div align="center">
 
-![Shaeo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shaeoo&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![Shaeo's GitHub Stats](https://github-readme-stats-eight-now.vercel.app/api?username=shaeoo&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=shaeoo&theme=dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shaeoo&layout=compact&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats-eight-now.vercel.app/api/top-langs/?username=shaeoo&layout=compact&theme=dark&hide_border=true)
 
 </div>
 
