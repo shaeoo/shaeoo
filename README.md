@@ -28,16 +28,16 @@
 **Databases:**  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgeSQL](https://img.shields.io/badge/PostgeSQL-3466b2?style=for-the-badge) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
+
+
+<!-- <div align="center">
 ## GitHub Stats
-
-<div align="center">
-
 ![Shaeo's GitHub Stats](https://github-readme-stats-eight-now.vercel.app/api?username=shaeoo&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=shaeoo&theme=dark&hide_border=true)
 
 ![Top Languages](https://github-readme-stats-eight-now.vercel.app/api/top-langs/?username=shaeoo&layout=compact&theme=dark&hide_border=true)
 
-</div>
+</div> -->
 
 
